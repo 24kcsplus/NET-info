@@ -67,12 +67,12 @@ DN42 IPv4: None
 ```
 节点: 湖北十堰
 公钥: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-对端: your.domain.tld:21347
+对端: 你的域名.tld:21347
 位置：海南海口
 ASN: 4242421347
 会话: IPv6 + IPv4
 DN42 IPv6: fe80::1347
-DN42 IPv4: None
+DN42 IPv4: 无
 ```
 
 ## Nodes 节点
