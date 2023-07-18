@@ -65,7 +65,7 @@ DN42 IPv4: None
 
 事例：
 ```
-节点: 湖北十堰
+节点: WGS
 公钥: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 对端: 你的域名.tld:21347
 位置：海南海口
@@ -77,7 +77,7 @@ DN42 IPv4: 无
 
 ## Nodes 节点
 
-#### HKG | Hongkong, China | cmy
+#### HKG | Hongkong, China 中国香港 | cmy 创铭数据
 
 - Endpoint 对端
 
@@ -103,7 +103,7 @@ DN42 IPv4: 无
   
   20Mbps
 
-#### WGS | Shiyan, Hubei, China | Rainyun
+#### WGS | Shiyan, Hubei, China 中国湖北十堰 | Rainyun 雨云
 
 - Endpoint 对端
 
@@ -127,7 +127,7 @@ DN42 IPv4: 无
   
   20Mbps
 
-#### HAK | Haikou, Hainan, China | China Mobile | Low SLA 低可用性
+#### HAK | Haikou, Hainan, China 中国海南海口 | China Mobile 中国移动| Low SLA 低可用性
 
 - Endpoint 公网地址
 
