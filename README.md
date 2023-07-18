@@ -83,7 +83,7 @@ DN42 IPv4: 无
 
   `103.42.31.208:[last 5 digits of your ASN | 你ASN的后五位]`
 
-  `2001:470:18:644::2` (Provide by he.net. 由he.net提供)
+  `[2001:470:18:644::2]:[last 5 digits of your ASN | 你ASN的后五位]` (Provide by he.net. 由he.net提供)
   
 - DN42
 
