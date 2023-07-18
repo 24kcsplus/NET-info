@@ -127,7 +127,7 @@ DN42 IPv4: 无
   
   20Mbps
 
-#### HAK | Haikou, Hainan, China 中国海南海口 | China Mobile 中国移动| Low SLA 低可用性
+#### HAK | Haikou, Hainan, China 中国海南海口 | China Mobile 中国移动 | Low SLA 低可用性
 
 - Endpoint 公网地址
 
