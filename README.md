@@ -155,3 +155,4 @@ DN42 IPv4: None
 
 
 Modified from [DN42-Info](https://github.com/Potat0000/DN42-Info)
+修改自[DN42-Info](https://github.com/Potat0000/DN42-Info)
