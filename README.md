@@ -36,11 +36,11 @@ I prefer email, so please contact me with email if you can. 我更倾向于使�
 
 - Contact information in the registry must always be up to date and admins must respond when contacted. 在注册处的联系信息必须是有效的，且管理员在需要的时候可以联系得到。
 
-- I do not accept to peer my mainland China's node with overseas servers. 我不接受中国大陆地区的跨境peer。
+- I do not accept to peer my mainland China's node with overseas servers. 我不接受中国大陆地区的跨境 Peer。
 
 ## Peeeing requests for manual peering 人工对等互联请求
 
-If you want to peer with me, please send the information as follows. 如果你想要与我peer，请发送以下信息。
+If you want to peer with me, please send the information as follows. 如果你想要与我 Peer，请发送以下信息。
 
 - The node you want to peer. 你想要对等互联的节点。
 
@@ -48,14 +48,14 @@ If you want to peer with me, please send the information as follows. 如果你�
 
 - The WireGuard endpoint for me to connect. Let me know if it's dynamic or you don't have one. 我要连接到的 WireGuard 对端。如果你的公网地址是动态的或者你没有公网地址，记得告诉我。
 
-- The location of your node.(Accurate to city, only peer with mainland China's node) 你节点的位置（精确到城市，只在与中国大陆节点peer时需要）
+- The location of your node.(Accurate to city, only peer with mainland China's node). 你节点的位置（精确到城市，只在与中国大陆节点 Peer 时需要）。
 
-- The phone number to contact.(Country Code:+86, only peer with mainland China's node) 你的电话号码（区号：+86，只在与中国大陆节点peer时需要）
+- The phone number to contact.(Country Code:+86, only peer with mainland China's node). 你的电话号码（区号：+86，只在与中国大陆节点 Peer 时需要）。
 <br>I will send a code to you to verify your phone number. 我会通过我的手机向你发送一条用于验证的短信。
 
 - Your ASN. 你的 ASN。
 
-- Your DN42 IP address(es). 你的DN42 IP地址。
+- Your DN42 IP address(es). 你的 DN42 IP 地址。
 
 - The session(s) to use: IPv6 + IPv4, IPv6 only, or IPv4 only. 要使用的会话：IPv6 + IPv4，仅 IPv6，或仅 IPv4。
 
@@ -76,6 +76,7 @@ DN42 IPv4: None
 公钥: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 对端: 你的域名.tld:21347
 位置：海南海口
+手机：13700000000
 ASN: 4242421347
 会话: IPv6 + IPv4
 DN42 IPv6: fe80::1347
@@ -90,7 +91,7 @@ DN42 IPv4: 无
 
   `103.42.31.208:[last 5 digits of your ASN | 你ASN的后五位]`
 
-  `[2001:470:18:644::2]:[last 5 digits of your ASN | 你ASN的后五位]` (Provide by he.net. 由he.net提供)
+  `[2001:470:18:644::2]:[last 5 digits of your ASN | 你ASN的后五位]` (Provide by he.net. 由he.net提供。)
   
 - DN42
 
@@ -130,7 +131,7 @@ DN42 IPv4: 无
 
 - Connectivity 连接性
   
-  IPv4 only 仅IPv4
+  IPv4 only 仅 IPv4
   
   20 Mbps
 
@@ -156,7 +157,7 @@ DN42 IPv4: 无
 
 - Connectivity 连接性
   
-  IPv6 only or provide your clearnet IPv4 仅IPv6，或提供你的公网IPv4地址
+  IPv6 only or provide your clearnet IPv4 仅 IPv6，或提供你的公网IPv4地址
   
   100 Mbps
 
