@@ -108,7 +108,7 @@ DN42 IPv4: 无
   
   IPv4 + IPv6
   
-  20Mbps
+  20 Mbps
 
 #### WGS | Shiyan, Hubei, China 中国湖北十堰 | Rainyun 雨云
 
@@ -132,7 +132,7 @@ DN42 IPv4: 无
   
   IPv4 only 仅IPv4
   
-  20Mbps
+  20 Mbps
 
 #### HAK | Haikou, Hainan, China 中国海南海口 | China Mobile 中国移动 | Low SLA 低可用性
 
@@ -158,7 +158,7 @@ DN42 IPv4: 无
   
   IPv6 only or provide your clearnet IPv4 仅IPv6，或提供你的公网IPv4地址
   
-  100Mbps
+  100 Mbps
 
 
 Modified from [DN42-Info](https://github.com/Potat0000/DN42-Info)
