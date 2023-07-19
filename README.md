@@ -51,7 +51,7 @@ If you want to peer with me, please send the information as follows. 如果你�
 - The location of your node.(Accurate to city, only peer with mainland China's node) 你节点的位置（精确到城市，只在与中国大陆节点peer时需要）
 
 - The phone number to contact.(Country Code:+86, only peer with mainland China's node) 你的电话号码（区号：+86，只在与中国大陆节点peer时需要）
-  I will send a code to you to verify your phone number. 我会通过我的手机想你发送一条用于验证的短信。
+<br>I will send a code to you to verify your phone number. 我会通过我的手机想你发送一条用于验证的短信。
 
 - Your ASN. 你的 ASN。
 
