@@ -50,9 +50,6 @@ If you want to peer with me, please send the information as follows. 如果你�
 
 - The location of your node.(Accurate to city, only peer with mainland China's node). 你节点的位置（精确到城市，只在与中国大陆节点 Peer 时需要）。
 
-- The phone number to contact.(Country Code:+86, only peer with mainland China's node). 你的电话号码（区号：+86，只在与中国大陆节点 Peer 时需要）。
-<br>I will send a code to you to verify your phone number. 我会通过我的手机向你发送一条用于验证的短信。
-
 - Your ASN. 你的 ASN。
 
 - Your DN42 IP address(es). 你的 DN42 IP 地址。
@@ -85,32 +82,6 @@ DN42 IPv4: 无
 
 ## Nodes 节点
 
-#### HKG | Hongkong, China 中国香港 | cmy 创铭数据
-
-- Endpoint 对端
-
-  `103.42.31.208:[last 5 digits of your ASN | 你ASN的后五位]`
-
-  `[2001:470:18:644::2]:[last 5 digits of your ASN | 你ASN的后五位]` (Provide by he.net. 由he.net提供。)
-  
-- DN42
-
-  `172.23.205.99`
-  
-  `fd12:7000:d0::2`
-  
-  `fe80::1347`
-
-- WireGuard Public Key Wireguard公钥
-
-  `j+8lwUvUoGorFqjQWJJ8Mp7EWwqD4J4pLmd/HyizYls=`
-
-- Connectivity 连接性
-  
-  IPv4 + IPv6
-  
-  20 Mbps
-
 #### WGS | Shiyan, Hubei, China 中国湖北十堰 | Rainyun 雨云
 
 - Endpoint 对端
@@ -134,33 +105,6 @@ DN42 IPv4: 无
   IPv4 only 仅 IPv4
   
   20 Mbps
-
-#### HAK | Haikou, Hainan, China 中国海南海口 | China Mobile 中国移动 | Low SLA 低可用性
-
-- Endpoint 公网地址
-
-  `[Contact to get | 联系取得]:[last 5 digits of your ASN | 你ASN的后五位]`
-
-  `Dynamic IPv6 | 动态公网IPv6`
-
-- DN42
-
-  `172.23.205.121`
-  
-  `fd12:7000:d0:0:114:514:1919:810`
-  
-  `fe80::1347`
-
-- WireGuard Public Key
-
-  `oKx4MI3f0bvSBIe05h1VI5R26dCczqXGj2Vx9cyIux8=`
-
-- Connectivity 连接性
-  
-  IPv6 only or provide your clearnet IPv4 仅 IPv6，或提供你的公网IPv4地址
-  
-  100 Mbps
-
 
 Modified from [DN42-Info](https://github.com/Potat0000/DN42-Info)
 
