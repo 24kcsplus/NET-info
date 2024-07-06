@@ -112,7 +112,7 @@ DN42 IPv4: 无
 
 #### SGP | Singapore 新加坡 | Oracle Cloud 甲骨文云
 
-#### HKG | Hong Kong 香港 | AWS 亚马逊云
+#### HKG | Hong Kong, China 中国香港 | AWS 亚马逊云
 
 Modified from [DN42-Info](https://github.com/Potat0000/DN42-Info)
 
