@@ -110,8 +110,6 @@ DN42 IPv4: 无
 
 #### ITY | San Giustino, Umbria, Italy 意大利温布利亚大区圣朱斯蒂诺 | Catserver
 
-#### SGP | Singapore 新加坡 | Oracle Cloud 甲骨文云
-
 #### HKG | Hong Kong, China 中国香港 | AWS 亚马逊云
 
 Modified from [DN42-Info](https://github.com/Potat0000/DN42-Info)
