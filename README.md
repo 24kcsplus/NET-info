@@ -82,31 +82,7 @@ DN42 IPv4: 无
 
 ## Nodes 节点
 
-#### WGS | Shiyan, Hubei, China 中国湖北十堰 | Rainyun 雨云
-
-- Endpoint 对端
-
-  `[Contact to get | 联系取得]:[last 5 digits of your ASN | 你ASN的后五位]`
-
-- DN42
-
-  `172.23.205.122`
-  
-  `fd12:7000:d0::e8:75f0:7f52`
-  
-  `fe80::1347:1`
-
-- WireGuard Public Key Wireguard公钥
-
-  `q7OFO6AYNjmX/XMTJ45lTjn3OP1j77/8hytYB/YbWAU=`
-
-- Connectivity 连接性
-  
-  IPv4 only 仅 IPv4
-  
-  20 Mbps
-
-### 预计上线
+### 预计上线 (Coming s∞n)
 
 #### ITY | San Giustino, Umbria, Italy 意大利温布利亚大区圣朱斯蒂诺 | Catserver
 
